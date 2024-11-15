@@ -3,4 +3,4 @@
 
 ## Model
 
-YOLOv11-nano from [ultralytics](https://github.com/ultralytics/ultralytics)
+YOLO11-nano from [ultralytics](https://github.com/ultralytics/ultralytics)
